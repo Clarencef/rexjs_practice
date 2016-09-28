@@ -1,1 +1,1 @@
-# rexjs_practice
+# rxjs_practice
