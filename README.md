@@ -23,4 +23,5 @@ Install live-server globally
 
 $ npm install live-server -g
 $ npm start
+
 Visit http://localhost:8000
