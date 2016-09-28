@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# RxJS Boiler
+# RxJS Practice
 
 Boilerplate for building RxJS applications in a Webpack environment
 
